@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Egor - a top-tier software engineer and a bit of a nerd.
+# 👋 Hi there, I'm Egor - a top-tier software engineer, mathematician, and a bit of a nerd.
 
 ## 🚀 My Projects - All built and launched solo
 
