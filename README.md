@@ -2,7 +2,7 @@
 
 ## 🚀 My Projects - All built and launched solo
 
-- 🗣️ [Quarktopus](https://quarktopus.com/egor) - Efficient voice messaging. Replace endless calls, boost productivity, and reclaim your time.
+- 🗣️ [Quarktopus](https://quarktopus.fly.dev/egor) - Efficient voice messaging. Replace endless calls, boost productivity, and reclaim your time.
 - 🤖 [Pancake Wizard](https://github.com/modagavr/pancake-wizard) - A bot for PancakeSwap Prediction with 26 technical indicators.
 - 🎥 [Solidity Like a Pro](https://youtube.com/EgorGavrilov) - My YouTube channel where I post educational videos about blockchain development.
 - 🧬 [Molecular Insights](https://molinsights.substack.com) - My biotech Substack.
